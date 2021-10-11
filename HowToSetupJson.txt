@@ -1,0 +1,7 @@
+1) Search on repl.it package manager for "org.json", while looking at the versions for this specific JSON package: https://mvnrepository.com/artifact/org.json/json
+
+2) install 
+
+3) import org.json.*;
+
+4) look at this post for how to use the package: https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java
